@@ -22,12 +22,12 @@ repository               : "hzhu2020/hzhu2020.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "IMG_1440.jpg"
+  name             : "Hongxuan Zhu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistant Professor at Zhejiang University"
+  location         : "Zhejiang University"
+  employer         : "Zhejiang University"
   uri              : # URL
   email            : "none@example.org" 
 
