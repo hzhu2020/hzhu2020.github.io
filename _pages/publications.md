@@ -7,52 +7,23 @@ author_profile: true
 {% include base_path %}
 
 
-Supervised publications
-======
-  Y. Liang, Y. Zhou, F. Dong, C. Zhu, G. Yu, Y. Zhao and G. Dong, [Design of 3D equilibria and coils for steady-state operation of tokamaks](https://iopscience.iop.org/article/10.1088/1741-4326/ada2a9), Nucl. Fusion 65, 026033 (2025).
-
 First-author publications
 ======
-  Y. Zhou, K. Aleynikova, C. Liu, and N. M. Ferraro, [Benign Saturation of Ideal Ballooning Instability in a High-Performance Stellarator](https://doi.org/10.1103/PhysRevLett.133.135102), Phys. Rev. Lett. 133, 135102 (2024).
+  H. Zhu, H. Chen, Z. Lin, and A. Bhattacharjee, [Global linear drift-wave eigenmode structures on flux surfaces in stellarators: ion temperature gradient mode](https://arxiv.org/abs/2506.12948), arXiv:2506.12948.
 
-  Y. Zhou, K. Aleynikova, and N. M. Ferraro, [Nonlinear magnetohydrodynamic modeling of current-drive-induced sawtooth-like crashes in the W7-X stellarator](https://doi.org/10.1063/5.0136654), Phys. Plasmas 30, 032503 (2023).
+  H. Zhu, Z. Lin, and A. Bhattacharjee, [Collisionless zonal-flow dynamics in quasisymmetric stellarators](https://doi.org/10.1017/S0022377824001739), J. Plasma Phys. 91, E28 (2025).
 
-  Y. Zhou, N. M. Ferraro, S. C. Jardin, and H. R. Strauss, [Approach to nonlinear magnetohydrodynamic simulations in stellarator geometry](https://iopscience.iop.org/article/10.1088/1741-4326/ac0b35), Nucl. Fusion 61, 086015 (2021).
+  H. Zhu, T. Stoltzfus-Dueck, R. Hager, S. Ku, and C.S. Chang, [Intrinsic Toroidal Rotation Driven by Turbulent and Neoclassical Processes in Tokamak Plasmas from Global Gyrokinetic Simulations](https://doi.org/10.1103/PhysRevLett.133.025101), Phys. Rev. Lett. 133, 025101 (2024).
 
-  Y. Zhou, H. Zhu, and I. Y. Dodin, [Solitary zonal structures in subcritical drift waves: a minimum model](https://iopscience.iop.org/article/10.1088/1361-6587/ab78f3), Plasma Phys. Control. Fusion 62, 045021 (2020).
+  H. Zhu, T. Stoltzfus-Dueck, R. Hager, S. Ku and C.S. Chang, [Effects of collisional ion orbit loss on tokamak radial electric field and toroidal rotation in an L-mode plasma](https://iopscience.iop.org/article/10.1088/1741-4326/acc815/meta), Nucl. Fusion 63, 066009 (2023).
 
-  Y. Zhou, H. Zhu, and I. Y. Dodin, [Formation of solitary zonal structures via the modulational instability of drift waves](https://iopscience.iop.org/article/10.1088/1361-6587/ab16a8), Plasma Phys. Control. Fusion 61, 075003 (2019).
+  H. Zhu, T. Stoltzfus-Dueck, R. Hager, S. Ku and C.S. Chang, [Effects of collisional ion orbit loss on neoclassical tokamak radial electric fields](https://iopscience.iop.org/article/10.1088/1741-4326/ac5b8a/meta), Nucl. Fusion, 62, 066012 (2022).
 
-  Y. Zhou, Y.-M. Huang, A. H. Reiman, H. Qin, and A. Bhattacharjee, [Magnetohydrodynamical equilibria with current singularities and continuous rotational transform](http://aip.scitation.org/doi/10.1063/1.5068778), Phys. Plasmas 26, 022103 (2019).
-
-  Y. Zhou, Y.-M. Huang, H. Qin, and A. Bhattacharjee, [Constructing current singularity in a 3D line-tied plasma](http://dx.doi.org/10.3847/1538-4357/aa9b84), Astrophys. J. 852, 3 (2018).
-
-  Y. Zhou, Y.-M. Huang, H. Qin, and A. Bhattacharjee, [Formation of current singularity in a topologically constrained plasma](http://link.aps.org/doi/10.1103/PhysRevE.93.023205), Phys. Rev. E 93, 023205 (2016).
-
-  Y. Zhou, H. Qin, J. W. Burby, and A. Bhattacharjee, [Variational integration for ideal magnetohydrodynamics
-with built-in advection equations](http://aip.scitation.org/doi/10.1063/1.4897372), Phys. Plasmas 21, 102109 (2014).
-
-Co-authored publications
-======
-
-  Z. S. Qu, Y. Zhou, A. Kumar, J. Doak, J. Loizu, M. J. Hole, [Sawtooth crash in tokamak as a sequence of multi-region relaxed MHD equilibria](https://doi.org/10.1063/5.0260347), Phys. Plasmas 32, 052503 (2025). 
-
-  R. Ma, C. Zhao, Y. Zhou, and C. Liu, [Numerical study of runaway current impact on
-sawtooth oscillations in tokamaks](https://iopscience.iop.org/article/10.1088/2058-6272/ad91e7), Plasma Sci. Technol. 27, 035101 (2025). 
-
-  Y.-M. Huang, Y. Zhou, S. R. Hudson, J. Loizu, and A. Bhattacharjee, [Structure of pressure-gradient-driven current singularity in ideal magnetohydrodynamic equilibrium](https://doi.org/10.1088/1361-6587/acb382), Plasma Phys. Control. Fusion 65, 034008 (2023).
-
-  Y.-M. Huang, S. R. Hudson, J. Loizu, Y. Zhou, and A. Bhattacharjee, [Numerical study of $\delta$-function current sheets arising from resonant magnetic perturbations](https://aip.scitation.org/doi/full/10.1063/5.0067898), Phys. Plasmas 29, 032513 (2022).
-
+  H. Zhu and I. Dodin, [Wave-kinetic approach to zonal-flow dynamics: Recent advances](https://pubs.aip.org/aip/pop/article/28/3/032303/835085), Phys. Plasmas 28, 032303 (2021).
+  
   H. Zhu, Y. Zhou, and I. Y. Dodin, [Theory of the tertiary instability and the Dimits shift within a scalar model](https://www.cambridge.org/core/product/identifier/S0022377820000823/type/journal_article), J. Plasma Phys. 86, 905860405 (2020).
-
-  D. Pfefferlé, L. Noakes, and Y. Zhou, [Rigidity of MHD equilibria to smooth incompressible ideal motion near resonant surfaces](https://iopscience.iop.org/article/10.1088/1361-6587/ab8ca3), Plasma Phys. Control. Fusion 62, 074004 (2020).
-
-  V. Tsiolis, Y. Zhou, and I. Y. Dodin, [Structure formation in turbulence as instability of effective quantum plasma](https://doi.org/10.1016/j.physleta.2020.126377), Phys. Lett. A 384, 126377 (2020).
-
+  
   H. Zhu, Y. Zhou, and I. Y. Dodin, [Theory of the tertiary instability and the Dimits shift from reduced drift-wave models](https://doi.org/10.1103/PhysRevLett.124.055002), Phys. Rev. Lett. 124, 055002 (2020).
-
-  I. Y. Dodin, D. E. Ruiz, K. Yanagihara, Y. Zhou, S. Kubo, [Quasioptical modeling of wave beams with and without mode conversion. I. Basic theory](http://aip.scitation.org/doi/10.1063/1.5095076), Phys. Plasmas 26, 072110 (2019). 
 
   H. Zhu, Y. Zhou, and I. Y. Dodin, [Nonlinear saturation and oscillations of collisionless zonal flows](https://iopscience.iop.org/article/10.1088/1367-2630/ab2251), New J. Phys. 21, 063009 (2019).
 
@@ -62,11 +33,22 @@ sawtooth oscillations in tokamaks](https://iopscience.iop.org/article/10.1088/20
 
   H. Zhu, Y. Zhou, D. E. Ruiz, and I. Y. Dodin, [Wave kinetics of drift-wave turbulence and zonal flows beyond the ray approximation](http://dx.doi.org/10.1103/PhysRevE.97.053210), Phys. Rev. E 97, 053210 (2018).
 
-  H. Qin, J. Liu, J. Xiao, R. Zhang, Y. He, Y. Wang, J. W. Burby, C. L. Ellison, and Y. Zhou. [Canonical symplectic particle-in-cell method for long-term large-scale simulations of the Vlasov-Maxwell equations](http://dx.doi.org/10.1088/0029-5515/56/1/014001), Nucl. Fusion 56, 014001 (2016).
+  H. Zhu and H. Qin, [On the correspondence between classical geometric phase of gyro-motion and quantum Berry phase](https://pubs.aip.org/aip/pop/article/24/2/022121/109249), Phys. Plasmas 24, 022121 (2017).
+
+Co-authored publications
+======
+H. Chen, X. Wei, H. Zhu, and Z. Lin, [Geometry effects on zonal flow dynamics and turbulent transport in optimized stellarators](https://iopscience.iop.org/article/10.1088/1741-4326/adde6f/meta), Nucl. Fusion 65, 074002 (2025).
+
+T. Stoltzfus-Dueck and H. Zhu, [Orbit-modulated transport and sources in time-dependent plasmas](https://iopscience.iop.org/article/10.1088/1361-6587/ac2034/meta), Plasma Phys. Control. Fusion 63, 115001 (2021).
+
+Y. Zhou, H. Zhu, and I. Y. Dodin, [Solitary zonal structures in subcritical drift waves: a minimum model](https://iopscience.iop.org/article/10.1088/1361-6587/ab78f3), Plasma Phys. Control. Fusion 62, 045021 (2020).
+
+Y. Zhou, H. Zhu, and I. Y. Dodin, [Formation of solitary zonal structures via the modulational instability of drift waves](https://iopscience.iop.org/article/10.1088/1361-6587/ab16a8), Plasma Phys. Control. Fusion 61, 075003 (2019).
+
 
 [//]: <> Preprints
 [//]: <> ======
 
 Ph.D. Thesis
 ======
-  Y. Zhou, [Variational Integration for Ideal Magnetohydrodynamics and Formation of Current Singularities](http://arxiv.org/abs/1708.08523), Ph.D. thesis (Princeton University, 2017). 
+  H. Zhu, [Phase-Space Theory of Drift Wave-Zonal Flow Interactions and the Dimits Shift](https://dataspace.princeton.edu/handle/88435/dsp01dv13zx27n), Ph.D. thesis (Princeton University, 2020). 
