@@ -25,9 +25,9 @@ author:
   avatar           : "IMG_1440.JPG"
   name             : "Hongxuan Zhu"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor at Zhejiang University"
-  location         : "Zhejiang University"
-  employer         : "Zhejiang University"
+  bio              : "Theoretical and computational plasma physicist at Zhejiang University"
+  location         : "8 Hainayuan Bldg #550"
+  employer         : # "Zhejiang University"
   uri              : # URL
   email            : "hongxuan@zju.edu.cn" 
 
