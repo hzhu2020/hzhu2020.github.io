@@ -6,31 +6,20 @@ author_profile: true
 
 {% include base_path %}
 
-Here is a short [talk](https://vshare.sjtu.edu.cn/play/8d9297e6e5c9473df098c5a50b04e5d2) I gave at the 2021 APS-DPP meeting on the stellarator extension of M3D-C1.
-
 Invited talks
 ======
-  5th Asia-Pacific Conference on Plasma Physics, Fukuoka, Japan (V, 2021).
+[Intrinsic toroidal rotation in tokamaks from global total-f gyrokinetic simulations](https://www.aappsdpp.org/DPP2023/html/3contents/pdf/5468.pdf), 7th Asia-Pacific Conference on Plasma Physics November 12-17, 2023, Port Messe Nagoya, Japan.
 
-  3rd Asia-Pacific Conference on Plasma Physics, Hefei, China (2019).
+[Quantitative measurements of ion orbit loss from gyrokinetic simulations](https://www.aappsdpp.org/DPP2022/html/3contents/pdf/topical/5279.pdf), 6th Asia Pacific Conference on Plasma Physics, October 9-14, 2022, remote.
 
-  60th Annual Meeting of the APS Division of Plasma Physics, Portland, OR (2018).
+Quantitative measurements of ion orbit loss from gyrokinetic simulations, The 15th Asia Pacific Physics Conference, August 21-26, 2022, remote.
 
-  12th West Lake International Symposium on Plasma Simulation, Hangzhou, China (2018).
+[Progress in theoretical understanding of the Dimits shift and the tertiary instability of drift waves](https://meetings.aps.org/Meeting/DPP20/Session/BI02.6), 62nd Annual Meeting of the APS Division of Plasma Physics, November 9-13, 2020, remote.
 
-  2nd Geometric Algorithms and Methods for Plasma Physics Workshop, Garching, Germany (2016).
-
-  1st Geometric Algorithms and Methods for Plasma Physics Workshop, Hefei, China (2014).
-
-Selected seminars
+Research talks and seminars
 ======
-  Magneto-Fluid Dynamics Seminar, Courant Institute of Mathematical Sciences, New York University (V, 2021).
+[Distribution of Turbulent Fluctuations on Flux Surfaces in Stellarators](https://hiddensymmetries.princeton.edu/meetings/2025-team-meeting-mar), Hidden Symmetries and Fusion Energy Annual Team Meeting, March 17-19, 2025, Princeton University.
 
-  Stellarator Theory Seminar, Max Planck Institute for Plasma Physics, Greifswald, Germany (V, 2021).
+[Intrinsic toroidal rotation in tokamak plasmas driven by turbulent and neoclassical processes from global total-f gyrokinetic simulations](https://mediacentral.princeton.edu/id/1_kyyyxo2c), Princeton Plasma Physics Laboratory Theory Seminar, July 27, 2023.
 
-  Theory Seminar, Princeton Plasma Physics Laboratory, Princeton, NJ (V, 2020).
-
-  Theory Seminar, Princeton Plasma Physics Laboratory, Princeton, NJ (2019).
-
-  Magneto-Fluid Dynamics Seminar, Courant Institute of Mathematical Sciences, New York University (2017).
-
+[Quantitative measurements of ion orbit loss from gyrokinetic simulations](https://mediacentral.princeton.edu/id/1_e6x169fd), Princeton Plasma Physics Laboratory Theory Seminar, June 16, 2022.
