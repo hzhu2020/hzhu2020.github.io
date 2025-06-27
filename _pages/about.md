@@ -11,7 +11,7 @@ redirect_from:
 
 About me
 ======
-I am a Tenure-track Assistant Professor at Institute for Fusion Theory and Simulation, School of Physics, Zhejiang University.
+I am a Tenure-track Assistant Professor at [Institute for Fusion Theory and Simulation](https://ifts.zju.edu.cn/iftsen/main.psp), [School of Physics](https://physics.zju.edu.cn/phy/), [Zhejiang University](https://www.zju.edu.cn/).
 
 Research interests
 ==
