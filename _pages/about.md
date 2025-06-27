@@ -15,7 +15,7 @@ I am a Tenure-track Assistant Professor at Institute for Fusion Theory and Simul
 
 Research interests
 ==
-I study the neoclassical and turbulent transport of plasmas in magnetically confined devices, including tokamaks and stellarators.
+I study theoretical and computational plasma physics and specialize in gyrokinetic simulations of magnetic confinement fusion plasmas. I am generally interested in theoretical understanding of the simulation results, as well as in advanced numerical methods in application to gyrokinetic simulations.
 
 Openings
 ======
