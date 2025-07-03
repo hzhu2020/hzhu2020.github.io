@@ -29,6 +29,6 @@ Interactions between drift waves and zonal flows in magnetic confinement fusion 
 Drift waves and zonal flows are utiquitous in magnetic confinement plasmas. Remarkably, they share similar mathematical description with Rossby waves and zonal flows in geophysical fluid dynamics, a famous example being the zonal flows on Jupiter. The wave-kinetic approach has often been used to study drift wave-zonal flow interactions, which considers wave packets as quasi-particles in phase space that interact via a collective field, i.e., the zonal flow. Recently, a Wigner-Moyal formulation has been proposed, which treats waves as quantum-like particles and retains essential “full-wave” effects. From this formulation, we theoretically explain why drift-wave turbulence is often localized in zonal flows where the local flow shear vanishes. Based on reduced fluid models, we further show that the local drift-wave instability growth rate is reduced by the zonal-flow curvature. This led to an improved understanding of the so called "Dimits shift", where drift-wave turbulence is completely extinguished by zonal flows. We plan to extend the theory to gyrokinetic plasmas. (PRL 124, [055002](https://doi.org/10.1103/PhysRevLett.124.055002) (2020).)
 
 <p align='center'>
-<img src='/images/TIstructure2.jpg'  width='350'>
-<img src='/images/TIstructure.jpg'  width='405'>
+<img src='/images/TIstructure.jpg'  width='400'>
+  <img src='/images/PropStructure.jpg'  width='525'>
 </p>
