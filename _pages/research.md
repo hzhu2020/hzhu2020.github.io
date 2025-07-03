@@ -12,12 +12,17 @@ Stellarators are a type of magnetic confinement devices that can generate rotati
 
 <p align='center'>
 <img src='/images/GTC_linear_Rz.jpg' width='400'>
-<img src='/images/GTC_linear_alphatheta.jpg' width='400'>
+<img src='/images/GTC_linear_alphatheta.jpg' width='390'>
 </p>
 
 Neoclassical and turbulent transport in tokamak plasmas
 ==========
 Due to conservation laws, the change in the plasma density, momentum, and energy can be explained from the corresponding radial transport of these quantities in tokamaks. In global gyrokinetic simulations, the radial transport comes from both neoclassical (equilibrium magnetic drift) and turbulent (fluctuating ExB drift and 3D magnetic perturbations) processes. While the neoclassical transport is theoretically assumed to be small, they are often observed to be comparable with turbulent transport in global gyrokinetic simulations, and hence should be considered in order to explain the simulation results. Recently, an "orbit-flux" formulation has been developed and numerically implemented in global gyrokinetic simulations. From this formulation, we numerically demonstrate how the neoclassical transport can be driven by collisions, turbulence, and special edge effects such as the ion orbit loss. We plan to extend the formulation to stellarator plasmas. (PRL 133, [025101](https://doi.org/10.1103/PhysRevLett.133.025101) (2024).)
+
+<p align='center'>
+<img src='/images/equilibrium.jpg' width='355'>
+<img src='/images/D3D_mflux.jpg' width='400'>
+</p>
 
 Interactions between drift waves and zonal flows in magnetic confinement fusion plasmas and geophysical fluids
 ==========
