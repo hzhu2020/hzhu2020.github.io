@@ -9,7 +9,7 @@ author_profile: true
 
 First-author publications
 ======
-  H. Zhu, H. Chen, Z. Lin, and A. Bhattacharjee, [Global linear drift-wave eigenmode structures on flux surfaces in stellarators: ion temperature gradient mode](https://arxiv.org/abs/2506.12948), arXiv:2506.12948.
+  H. Zhu, H. Chen, Z. Lin, and A. Bhattacharjee, [Global linear drift-wave eigenmode structures on flux surfaces in stellarators: ion temperature gradient mode](https://iopscience.iop.org/article/10.1088/1741-4326/ae151a/meta), Nucl. Fusion 66, 016011 (2026).
 
   H. Zhu, Z. Lin, and A. Bhattacharjee, [Collisionless zonal-flow dynamics in quasisymmetric stellarators](https://doi.org/10.1017/S0022377824001739), J. Plasma Phys. 91, E28 (2025).
 
@@ -37,6 +37,8 @@ First-author publications
 
 Co-authored publications
 ======
+N. M. Cao, H. Zhu, G. C. Grime, and T. Stoltzfus-Dueck, [Detecting Shearless Phase-Space Transport Barriers in Global Gyrokinetic Turbulence Simulations with Test Particle Map Models](https://arxiv.org/abs/2511.02075), arXiv:2511.02075.
+
 H. Chen, X. Wei, H. Zhu, and Z. Lin, [Geometry effects on zonal flow dynamics and turbulent transport in optimized stellarators](https://iopscience.iop.org/article/10.1088/1741-4326/adde6f/meta), Nucl. Fusion 65, 074002 (2025).
 
 T. Stoltzfus-Dueck and H. Zhu, [Orbit-modulated transport and sources in time-dependent plasmas](https://iopscience.iop.org/article/10.1088/1361-6587/ac2034/meta), Plasma Phys. Control. Fusion 63, 115001 (2021).
