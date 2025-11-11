@@ -8,7 +8,9 @@ author_profile: true
 
 Invited talks
 ======
-[Intrinsic toroidal rotation in tokamaks from global total-f gyrokinetic simulations](https://www.aappsdpp.org/DPP2023/html/3contents/pdf/5468.pdf), 7th Asia-Pacific Conference on Plasma Physics November 12-17, 2023, Port Messe Nagoya, Japan.
+[Global eigenmode structure of linear drift-wave instabilities on flux surfaces in stellarators](https://www.aappsdpp.org/DPP2025/html/3contents/pdf/5539.pdf), 9th Asia-Pacific Conference on Plasma Physics, September 21-26, 2025, Fukuoka, Japan.
+
+[Intrinsic toroidal rotation in tokamaks from global total-f gyrokinetic simulations](https://www.aappsdpp.org/DPP2023/html/3contents/pdf/5468.pdf), 7th Asia-Pacific Conference on Plasma Physics, November 12-17, 2023, Nagoya, Japan.
 
 [Quantitative measurements of ion orbit loss from gyrokinetic simulations](https://www.aappsdpp.org/DPP2022/html/3contents/pdf/topical/5279.pdf), 6th Asia Pacific Conference on Plasma Physics, October 9-14, 2022, remote.
 
@@ -18,6 +20,8 @@ Quantitative measurements of ion orbit loss from gyrokinetic simulations, The 15
 
 Research talks and seminars
 ======
+Global eigenmode structure of linear drift-wave instabilities on flux surfaces in stellarators, Simons/HiFiStell Hour Talks, October 23, 2025.
+
 [Distribution of Turbulent Fluctuations on Flux Surfaces in Stellarators](https://hiddensymmetries.princeton.edu/meetings/2025-team-meeting-mar), Hidden Symmetries and Fusion Energy Annual Team Meeting, March 17-19, 2025, Princeton University.
 
 [Intrinsic toroidal rotation in tokamak plasmas driven by turbulent and neoclassical processes from global total-f gyrokinetic simulations](https://mediacentral.princeton.edu/id/1_kyyyxo2c), Princeton Plasma Physics Laboratory Theory Seminar, July 27, 2023.
