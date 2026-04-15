@@ -19,4 +19,4 @@ I study theoretical and computational plasma physics and specialize in gyrokinet
 
 Openings
 ======
-Positions are available for postdocs and students. 
+Positions are available for students. 
